@@ -1,6 +1,6 @@
-# React Router + TypeScript Boilerplate
+# React Router + TypeScript Boilerplate  
 
-This is a minimal Vite-based React + TypeScript starter with React Router v6.
+This is a minimal Vite-based React
 
 ## Quick start
 
