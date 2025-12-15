@@ -25,7 +25,7 @@ This is a minimal Vite-based React
 git init
 git add .
 git commit -m "Initial boilerplate"
-# create repository on GitHub (web or use `gh` CLI), then:
+# create repository on GitHub (web or use `gh` CLI), then: git proper changes
 git remote add origin git@github.com:<your-username>/<repo-name>.git
 git branch -M main
 git push -u origin main
