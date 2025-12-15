@@ -4,7 +4,7 @@ This is a minimal Vite-based React + TypeScript starter with React Router v6.
 
 ## Quick start
 
-1. Install dependencies
+1. Install dependencies all dependencies npm install
    ```bash
    npm install
    ```
