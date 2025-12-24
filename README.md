@@ -16,7 +16,7 @@ This is a minimal Vite-based React
 
 3. Build Structure
    ```bash
-   npm run build someth
+   npm run build added some data
    ```
 
 ## Create a GitHub repo and push
