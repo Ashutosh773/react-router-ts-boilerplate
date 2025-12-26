@@ -6,7 +6,7 @@ This is a minimal Vite-based React
 
 1. Install dependencies
    ```bash
-   npm install
+   npm install alll dependencies
    ```
 
 2. Run dev server
